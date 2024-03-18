@@ -47,7 +47,7 @@ Este repositório contém um jogo simples do Mario, construído com:
 
 # Deploy:
 
-- Projeto online: [https://api-covid19-alpha.vercel.app/]
+- Projeto online: [https://jogomario-github-io.vercel.app/]
 
 # 💭 Observação:
 Este é um jogo básico, sem pontuação ou níveis adicionais.
